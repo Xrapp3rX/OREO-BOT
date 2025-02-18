@@ -28,12 +28,12 @@
 
 ## ```Connect With Me```
 
-<a href="https://api.whatsapp.com/send?phone=919637987574&text=hello+shizo+devs+❤️✨"><img src="https://img.shields.io/badge/Connect on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://api.whatsapp.com/send?phone=917823819907&text=hello+shizo+devs+❤️✨"><img src="https://img.shields.io/badge/Connect on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="https://instagram.com/shizo_the_techie"><img src="https://img.shields.io/badge/Connect on instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 ## ```Bot Support Groups```
 
-<a href="https://chat.whatsapp.com/DWqdPuQ0yFkKyf1SzZ0k9Y"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://chat.whatsapp.com/C7hcNLRf9s0GSGq7UiMulm"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
 <a href="https://whatsapp.com/channel/0029VaCkzkr3wtb1uYWiRz2o"><img src="https://img.shields.io/badge/Follow Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
@@ -145,8 +145,8 @@ cd oreo-bot && node .
 
 
 ## CREDITS 
-<div><button id="boton" type="button">Baileys - By WhiskeySockets & adiwajshing</button></div>
-<a href="https://github.com/WhiskeySockets/Baileys"><img src="https://github.com/WhiskeySockets.png" width="70" height="70" alt="adiwajshing"/></a>
+<div><button id="boton" type="button">Baileys - By ShizoDevs & adiwajshing</button></div>
+<a href="https://github.com/shizo-devs/shizoweb"><img src="https://github.com/shizo-devs.png" width="70" height="70" alt="adiwajshing"/></a>
 
 <div><button id="boton" type="button">Base  - By Shizo The Techie (ShizoBot)</button></div>
 <a href="https://github.com/shizothetechie"><img src="https://github.com/shizothetechie.png" width="70" height="70" alt="adiwajshing"/></a>
@@ -159,14 +159,9 @@ cd oreo-bot && node .
 `OREO-BOT - By Shizo The Techie`
 
 ### CONTRIBUTORS
-<a href="https://github.com/dev-shizo"><img src="https://github.com/dev-shizo.png" width="85" height="85" alt="Shizo Devs"/></a>
-
+<a href="https://github.com/gariox3d"><img src="https://github.com/gariox3d.png" width="85" height="85" alt="Gariox 3D"/></a>
 <a href="https://github.com/syntax-king"><img src="https://github.com/syntax-king.png" width="85" height="85" alt="Subham"/></a>
-
-<a href="https://github.com/DGXeon"><img src="https://github.com/DGXeon.png" width="85" height="85" alt="Xeon"/></a>
-
 <a href="https://github.com/Guru322"><img src="https://github.com/Guru322.png" width="85" height="85" alt="Guru"/></a>
-
 <a href="https://github.com/kai0071"><img src="https://github.com/kai0071.png" width="85" height="85" alt="Achintya"/></a>
-
+<a href="https://github.com/DGXeon"><img src="https://github.com/DGXeon.png" width="85" height="85" alt="Xeon"/></a>
 <a href="https://github.com/Xei-Sensei"><img src="https://github.com/Xei-Sensei.png" width="85" height="85" alt="Xei Sensei"/></a>
